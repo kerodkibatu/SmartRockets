@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7V8tnqyiO7uJlR49qCmoEeLOU6L/gPD47uDmYscT5jlxnp7ikfFgZFelSYbDlHvaZr0upMW/oUcgdYeQVGYPNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kerod\\Documents\\Code\\C# Programs\\SmartRockets\\SmartRockets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kerod\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Kerod\\.nuget\\packages\\krane\\2.0.0\\krane.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kerod\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Kerod\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Kerod\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Kerod\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Kerod\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
