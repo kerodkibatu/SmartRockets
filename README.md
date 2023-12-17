@@ -7,8 +7,6 @@
 SmartRockets is a genetic algorithm visualization that demonstrates the concept of survival of the fittest. The program is inspired by the Coding Train and implemented from scratch using C# and the custom graphics library "Krane," available in the [Krane repository](https://github.com/kerodkibatu/krane).
 
 ## Table of Contents
-
-- [Introduction](#smartrockets-genetic-algorithm-visualization)
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
